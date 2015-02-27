@@ -1,0 +1,28 @@
+body {
+	background: url('../img/washi.png');
+	
+}
+
+.yellow {
+	background-color: rgba(255,190,29,0.3);
+}
+
+.blue {
+	background-color: rgba(15,170,239,0.3);
+}
+
+.red {
+	background-color: rgba(255,13,0,0.3);
+}
+
+.purple {
+	background-color: rgba(125,63,103,0.3);
+}
+
+.navy {
+	background-color: rgba(10,47,101,0.3);
+}
+
+.green {
+	background-color: rgba(54,199,70,0.3);
+}
