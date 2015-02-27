@@ -5,8 +5,8 @@ background-image: url("../img/swirl22.png");
 	
 }
 
-.black {
-	background-color: rgba(0,0,0,0.8);
+.blackish {
+	background-color: rgba(0,0,0,0.85);
 }
 
 .yellow {
@@ -31,4 +31,10 @@ background-image: url("../img/swirl22.png");
 
 .green {
 	background-color: rgba(54,199,70,0.3);
+}
+
+img {
+	width: 25%;
+	padding-top: 2.5%;
+	padding-bottom: 3%;
 }
