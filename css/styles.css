@@ -1,6 +1,12 @@
 body {
-	background: url('../img/washi.png');
+	background-color: #ffffff;
+background-image: url("../img/swirl22.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 	
+}
+
+.black {
+	background-color: rgba(0,0,0,0.8);
 }
 
 .yellow {
