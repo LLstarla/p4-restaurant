@@ -73,7 +73,15 @@ h4 {
 }
 
 
+ #owl-demo .item{
+        margin: 3px;
+    }
 
+#owl-demo .item img{
+    display: block;
+    width: 80px;
+    height: 80px;
+}
 
 
 
